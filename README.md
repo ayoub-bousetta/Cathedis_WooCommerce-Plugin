@@ -1,7 +1,7 @@
 
 ## About the Plugin
 
-This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in Casablanca' with Lamacom Maroc E-commerce website in user-friendly way (WooCommerce Plugin).
+This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in Morocco' with Lamacom Maroc E-commerce website in user-friendly way (WooCommerce Plugin).
 
 
 ## Main Tasks/Funcs tracking.
