@@ -13,6 +13,7 @@ This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in 
 - [x] Keep tracking of the package inside page order.
 - [x] Download bulk pickup invoices.
 - [x] Download delivery invoices.
+- [x] Using cities directly from Cathedis, ( Dropdown in both front <b>checkout page</b> and <b>dashboard order single page</b> )
 
 
 ## Screenshots.
