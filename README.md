@@ -11,6 +11,8 @@ This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in 
 - [x] Adding a dropdown to Billing and Shipping pages to select cities and departements.
 - [x] Keep tracking of the package status (No c-job needed) <b>Cathedis -> history</b> page.
 - [x] Keep tracking of the package inside page order.
+- [x] Download bulk pickup invoices.
+- [x] Download delivery invoices.
 
 
 ## Screenshots.
