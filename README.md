@@ -8,6 +8,7 @@ This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in 
 - [x] Easy to install and update.
 - [x] Settings page to add you Auth info, API urls and shipping costs based on cities list.
 - [x] Send products to Cathedis Hub "Plateform" When order is completed. <b>WooCommerce -> Orders -> single order</b>
+- [x] Ignore duplicated if status changed after.
 - [x] Adding a dropdown to Billing and Shipping pages to select cities and departements.
 - [x] Keep tracking of the package status (No c-job needed) <b>Cathedis -> history</b> page.
 - [x] Keep tracking of the package inside page order.
