@@ -21,7 +21,7 @@ This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in 
 ![Order Page](https://i.imgur.com/s5XtT4P.png)
 
 
-And more...(The real Repo is private - if you want the plugin please contact me)
+And more...
 
 ## Main Technologies.
 
