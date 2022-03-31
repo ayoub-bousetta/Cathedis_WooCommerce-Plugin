@@ -4,12 +4,12 @@
 This Plugin was created to connect Cathedis.ma 'Shipping and mailing service in Morocco' with Lamacom Maroc E-commerce website in user-friendly way (WooCommerce Plugin).
 
 
-## Main Tasks/Funcs tracking.
+## Main Tasks.
 - [x] Setting page to add you Auth info, API urls and shipping costs based on cities list.
 - [x] Easy to install and update.
-- [x] Send products to Cathedis Hub "Plateform" When order is completed.
+- [x] Send products to Cathedis Hub "Plateform" When order is completed. <b>WooCommerce -> Orders -> single order</b>
 - [x] Adding a dropdown to Billing and Shipping pages to select cities and departements.
-- [x] Keep tracking of the package status (No c-job needed).
+- [x] Keep tracking of the package status (No c-job needed) <b>Cathedis -> history</b> page.
 - [x] Keep tracking of the package inside page order.
 
 
